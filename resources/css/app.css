@@ -11,9 +11,9 @@
 }
 
 .titulo {
-  @apply text-6xl font-bold text-blue-600 my-1 mb-1 ml-4;
+  @apply text-6xl font-bold text-pink-500 my-1 mb-1 ml-4;
 }
 
 .boton {
-  @apply bg-blue-500 text-white px-6 py-3 rounded hover:bg-blue-700 transition;
+  @apply bg-blue-500 text-white px-6 py-3 rounded hover:bg-pink-400 transition;
 }
